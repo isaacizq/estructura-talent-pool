@@ -1,0 +1,101 @@
+{
+  "personal_information": {
+    "name": "ISAAC DAVID IZQUIERDO BAINE",
+    "location": "Soledad, Atlántico",
+    "phone": "302 279-6067",
+    "email": "isaacizquierdo06@gmail.com",
+    "linkedin": "linkedin.com/in/isaac-david-izquierdo-baine-b63144238/"
+  },
+  "profile": "Tecnólogo en Análisis y Desarrollo de Software con experiencia en soporte técnico, desarrollo backend con Java y manejo de bases de datos SQL Server y MySQL. [cite: 2, 3, 4, 5] Participante del programa Oracle Next Education con énfasis en buenas prácticas, programación orientada a objetos y metodologías agiles. [cite: 3] Comprometido, orientado a resultados y con habilidades en resolución de problemas técnicos. [cite: 4] Busco aportar valor en proyectos de desarrollo de software en modalidad remota o hibrida.",
+  "skills": {
+    "languages": ["Java (Principal)", "Python", "JavaScript", "PHP"],
+    "databases": ["MySQL", "SQL Server"],
+    "frameworks": ["Spring Boot", "JPA", "Hibernate", "JSP", "Servlet"],
+    "tools": ["IntelliJ IDEA", "Git", "Postman", "Firebase Studio"],
+    "other": ["Microservicios", "GSON", "APIs REST", "manejo de JSON", "AWS (básico)"],
+    "methodologies": ["Scrum"]
+  },
+  "experience": [
+    {
+      "company": "NTT DATA",
+      "position": "Soporte de Software / Consultor IT",
+      "duration": "Agosto 2024 - Febrero 2025",
+      "description": [
+        "Brindé soporte técnico en facturación electrónica para TERPEL.",
+        "Gestioné bases de datos SQL Server y realice generación de reportes automatizados.",
+        "Atendí incidencias técnicas, mejorando tiempos de respuesta y reduciendo errores en un 15%. [cite: 6, 7, 8, 9] ",
+        "Documenté procedimientos y asistí en implementación de soluciones en entorno empresarial."
+      ]
+    },
+    {
+      "company": "SENA (Sucre)",
+      "position": "Desarrollador de Software",
+      "duration": "Enero 2024 - Enero 2025",
+      "description": [
+        "Participé en el diseño de arquitectura de software y desarrollo de soluciones orientadas a la gestión de información.",
+        "Implementé pruebas funcionales y colabore en la definición de requisitos técnicos.",
+        "Programé Front-end y Back end del software.",
+        "Apoyé propuestas técnicas y documentación para proyectos de tecnología."
+      ]
+    },
+    {
+      "company": "Prosalmin",
+      "position": "Instalador de Redes",
+      "duration": "Junio 2018 - Junio 2019",
+      "description": [
+        "Instalación y mantenimiento de redes de telecomunicaciones (fibra óptica, cable coaxial, etc.). [cite: 10, 11, 12, 13, 14]",
+        "Coordinación de tareas en campo y pruebas básicas de línea para diagnóstico de fallas."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Tecnólogo en Análisis y Desarrollo de Sistemas de Software",
+      "institution": "SENA Sucre",
+      "status": "Graduado"
+    },
+    {
+      "degree": "Técnico en Instalación de Redes",
+      "institution": "SENA Antioquia",
+      "status": "Graduado"
+    },
+    {
+      "degree": "Bachiller Académico",
+      "institution": "IEI San Antonio"
+    }
+  ],
+  "certifications": [
+    "Oracle Next Education: Java y metodologías agiles (2024)",
+    "Atención y servicio al cliente - SENA",
+    "Ingles Básico - SENA (120 horas, 2024)",
+    "Seguridad y salud en el trabajo - SENA"
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "level": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "level": "Intermedio (lectura y escritura), Básico (habla)"
+    }
+  ],
+  "projects": [
+    {
+      "name": "API REST de STARWARS",
+      "url": "https://github.com/isaacizq/Alura_Cursos_API_STARWARS"
+    },
+    {
+      "name": "Spring JPA Challenge",
+      "url": "https://github.com/isaacizq/challenge_spring_JPA"
+    },
+    {
+      "name": "API REST - FORO (Alura)",
+      "url": "https://github.com/isaacizq/alura_curso_API-REST-FORO"
+    },
+    {
+      "name": "Sistema de Dotación de ropa de trabajo (Proyecto SENA)",
+      "url": "https://github.com/isaacizq/Dotacion_SENA"
+    }
+  ]
+}
